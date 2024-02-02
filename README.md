@@ -15,7 +15,7 @@ This repository contains all the necessary files for the Crowdfunding ETL projec
 
 - `crowdfunding_db_schema.sql`: SQL schema file for creating the database tables.
 
-- `ETL_Mini_Project_Starter_Code.ipynb`: Jupyter Notebook with the ETL process.
+- `ETL_Mini_Project.ipynb`: Jupyter Notebook with the ETL process.
 
 - `import_csv_to_db.sql`: SQL script for importing data from CSV files into the database.
 
